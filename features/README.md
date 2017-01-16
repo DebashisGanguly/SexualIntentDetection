@@ -36,6 +36,8 @@
   <li><b>B</b>iting lips</li>
 </ol>
 
+# Extraction of features 
+<p> The SexualIntent.csv, Moods_Emotions.csv, and Attributes.csv are created from download.csv, which is the raw annotation collected from Amazon Mechanical Turk, upon taking majority votes on annotators' labels.</p>
 
 # Automatically extracted features
 # Caffe Net features
