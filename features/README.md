@@ -1,12 +1,12 @@
 
-# GlobalClasses.csv (Column B)
+# GlobalClasses.csv (1 feature: Column B)
 <ol>
   <li><b>Y</b>es, definitely sexually provocative (-1)</li>
   <li><b>M</b>aybe, implicit or hidden sexual intentions (0)</li>
   <li><b>N</b>o, casual without any explicit sexual intentions (+1)</li>
 </ol>
 
-# PersonalityAttributes.csv (Columns B - F)
+# PersonalityAttributes.csv (5 features: Columns B - F)
 <ol>
   <li><b>D</b>efensive or protective or shy</li>
   <li><b>S</b>uggestive or sly (pretension to be shy)</li>
@@ -15,7 +15,7 @@
   <li><b>U</b>pset or annoyed or angry or disgusted</li>
 </ol>
 
-# SynatcticalAttributes.csv (Columns B - R)
+# SynatcticalAttributes.csv (17 features: Columns B - R)
 <ol>
   <li>Skin Exposure</li>
   <li>Scene Context</li>
