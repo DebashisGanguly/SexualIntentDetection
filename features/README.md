@@ -1,9 +1,10 @@
 
 # GlobalClasses.csv
-<li>(-1) <b>Y</b>es, definitely sexually provocative</li>
-<li>(0)<b>M</b>aybe, implicit or hidden sexual intentions</li>
-<li>(+1) <b>N</b>o, casual without any explicit sexual intentions</li>
-
+<ol start="-1">
+  <li><b>Y</b>es, definitely sexually provocative</li>
+  <li><b>M</b>aybe, implicit or hidden sexual intentions</li>
+  <li><b>N</b>o, casual without any explicit sexual intentions</li>
+</ol>
 
 # PersonalityAttributes.csv
 <li><b>D</b>efensive or protective or shy</li>
