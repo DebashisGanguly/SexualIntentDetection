@@ -1,12 +1,12 @@
 
-# GlobalClasses.csv (1 feature: Column B)
+# GlobalClasses.csv (1 dimension: Column B)
 <ol>
   <li><b>Y</b>es, definitely sexually provocative (-1)</li>
   <li><b>M</b>aybe, implicit or hidden sexual intentions (0)</li>
   <li><b>N</b>o, casual without any explicit sexual intentions (+1)</li>
 </ol>
 
-# PersonalityAttributes.csv (5 features: Columns B - F)
+# PersonalityAttributes.csv (5 dimensions: Columns B - F)
 <ol>
   <li><b>D</b>efensive or protective or shy</li>
   <li><b>S</b>uggestive or sly (pretension to be shy)</li>
@@ -15,7 +15,7 @@
   <li><b>U</b>pset or annoyed or angry or disgusted</li>
 </ol>
 
-# SynatcticalAttributes.csv (17 features: Columns B - R)
+# SynatcticalAttributes.csv (17 dimensions: Columns B - R)
 <ol>
   <li>Skin Exposure</li>
   <li>Scene Context</li>
@@ -40,13 +40,13 @@
 # Raw feature descriptors
 # Caffe Net features
 <ol>
-  <li>CaffeNet-FC6 (4096 dim)</li>
-  <li>CaffeNet-FC7 (4096 dim)</li>
-  <li>CaffeNet-FC8 (1000 dim)</li>
+  <li>CaffeNet-FC6 (4096 dimensions)</li>
+  <li>CaffeNet-FC7 (4096 dimensions)</li>
+  <li>CaffeNet-FC8 (1000 dimensions)</li>
 </ol>
 # Other feature descriptors
 <ol>
-  <li>Color hisogram (256 dim)</li>
-  <li>HOG (128 dim)</li>
-  <li>SIFT hisogram (256 dim)</li>
+  <li>Color hisogram (256 dimensions)</li>
+  <li>HOG (128 dimensions)</li>
+  <li>SIFT hisogram (256 dimensions)</li>
 </ol>
