@@ -17,8 +17,24 @@
 
 # SynatcticalAttributes.csv (Columns B - R)
 <ol>
-  <li><b> </b> </li>
-
+  <li>Skin Exposure</li>
+  <li>Scene Context</li>
+  <li>Body <b>P</b>osture</li>
+  <li>Body <b>M</b>ovement</li>
+  <li><b>B</b>ody Facing Camera</li>
+  <li><b>F</b>ace Facing Camera </li>
+  <li><b>H</b>ead Position</li>
+  <li><b>S</b>pread Eagles</li>
+  <li><b>E</b>lbow Pointing</li>
+  <li>Position of <b>W</b>rist</li>
+  <li><b>G</b>esture with Fingers</li>
+  <li><b>L</b>ooking</li>
+  <li><b>E</b>yebrow</li>
+  <li><b>S</b>mile</li>
+  <li>Eyeli<b>d</b>s</li>
+  <li><b>M</b>outh</li>
+  <li><b>B</b>iting lips</li>
 </ol>
+
 
 ## Feature descriptors
