@@ -38,7 +38,7 @@
 
 
 # Raw feature descriptors
-	## Caffe Net features
+  ## Caffe Net features
   <ol>
     <li>CaffeNet-FC6 (4096 dim)</li>
     <li>CaffeNet-FC7 (4096 dim)</li>
