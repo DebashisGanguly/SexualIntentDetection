@@ -38,15 +38,15 @@
 
 
 # Raw feature descriptors
-  ## Caffe Net features
-  <ol>
-    <li>CaffeNet-FC6 (4096 dim)</li>
-    <li>CaffeNet-FC7 (4096 dim)</li>
-    <li>CaffeNet-FC8 (1000 dim)</li>
-  </ol>
-  ## Other feature descriptors
-  <ol>
-    <li>Color hisogram (256 dim)</li>
-    <li>HOG (128 dim)</li>
-    <li>SIFT hisogram (256 dim)</li>
-  </ol>
+# Caffe Net features
+<ol>
+  <li>CaffeNet-FC6 (4096 dim)</li>
+  <li>CaffeNet-FC7 (4096 dim)</li>
+  <li>CaffeNet-FC8 (1000 dim)</li>
+</ol>
+# Other feature descriptors
+<ol>
+  <li>Color hisogram (256 dim)</li>
+  <li>HOG (128 dim)</li>
+  <li>SIFT hisogram (256 dim)</li>
+</ol>
