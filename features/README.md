@@ -1,12 +1,12 @@
 
-# GlobalClasses.csv (1 dimension: Column B)
+# SexualIntent.csv (1 dimension: Column B)
 <ol>
   <li><b>Y</b>es, definitely sexually provocative (-1)</li>
   <li><b>M</b>aybe, implicit or hidden sexual intentions (0)</li>
   <li><b>N</b>o, casual without any explicit sexual intentions (+1)</li>
 </ol>
 
-# PersonalityAttributes.csv (5 dimensions: Columns B - F)
+# Moods_Emotions.csv (5 dimensions: Columns B - F)
 <ol>
   <li><b>D</b>efensive or protective or shy</li>
   <li><b>S</b>uggestive or sly (pretension to be shy)</li>
@@ -15,7 +15,7 @@
   <li><b>U</b>pset or annoyed or angry or disgusted</li>
 </ol>
 
-# SynatcticalAttributes.csv (17 dimensions: Columns B - R)
+# Attributes.csv (17 dimensions: Columns B - R)
 <ol>
   <li>Skin Exposure</li>
   <li>Scene Context</li>
@@ -37,14 +37,14 @@
 </ol>
 
 
-# Raw feature descriptors
+# Automatically extracted features
 # Caffe Net features
 <ol>
   <li>CaffeNet-FC6 (4096 dimensions)</li>
   <li>CaffeNet-FC7 (4096 dimensions)</li>
   <li>CaffeNet-FC8 (1000 dimensions)</li>
 </ol>
-# Other feature descriptors
+# Low level features
 <ol>
   <li>Color hisogram (256 dimensions)</li>
   <li>HOG (128 dimensions)</li>
