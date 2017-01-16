@@ -6,11 +6,12 @@
 
 
 # PersonalityAttributes.csv
-<b>D</b>efensive or protective or shy
-<b>S</b>uggestive or sly (pretension to be shy)
-<b>P</b>layful or naughty or teasing
-<b>R</b>elaxed or happy
-<b>U</b>pset or annoyed or angry or disgusted
+<li><b>D</b>efensive or protective or shy</li>
+<li><b>S</b>uggestive or sly (pretension to be shy)</li>
+<li><b>P</b>layful or naughty or teasing</li>
+<li><b>R</b>elaxed or happy</li>
+<li><b>U</b>pset or annoyed or angry or disgusted</li>
+
 # SynatcticalAttributes.csv
 
 ## Feature descriptors
