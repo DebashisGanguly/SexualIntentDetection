@@ -1,7 +1,7 @@
 
 # GlobalClasses.csv
 <li>(-1) <b>Y</b>es, definitely sexually provocative</li>
-<li>(0)&nbsp;<b>M</b>aybe, implicit or hidden sexual intentions</li>
+<li>(&nbsp;0)&nbsp;<b>M</b>aybe, implicit or hidden sexual intentions</li>
 <li>(+1) <b>N</b>o, casual without any explicit sexual intentions</li>
 
 
