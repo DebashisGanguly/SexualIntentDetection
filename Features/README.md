@@ -45,7 +45,7 @@
     <ol>
       <li>Standing (1)</li>
       <li>Sitting (2)</li>
-      <li>Lying (3)<li>
+      <li>Lying (3)</li>
       <li>Walking/Running (4)</li>
     </ol>
   </li>
@@ -95,13 +95,56 @@
     </ol>
   </li>
   
-  <li><b>G</b>esture with Fingers</li>
-  <li><b>L</b>ooking</li>
-  <li><b>E</b>yebrow</li>
-  <li><b>S</b>mile</li>
-  <li>Eyeli<b>d</b>s</li>
-  <li><b>M</b>outh</li>
-  <li><b>B</b>iting lips</li>
+  <li><b>G</b>esture with Fingers
+    <ol>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ol>
+  </li>
+  
+  <li><b>L</b>ooking
+    <ol>
+      <li>Away (0)</li>
+      <li>Straight (1)</li>
+      <li>Up (2)</li>
+      <li>Down (3)</li>
+    </ol>
+  </li>
+  
+  <li><b>E</b>yebrow
+      <ol>
+      <li>Straight/Normal (1)</li>
+      <li>Frowning (2)</li>
+      <li>Raised Up(3)</li>
+    </ol>
+  </li>
+  <li><b>S</b>mile
+    <ol>
+      <li>Not smiling (0)</li>
+      <li>Duchenne (1)</li>
+      <li>Non-Duchenne (2)</li>
+    </ol>
+  </li>
+  <li>Eyeli<b>d</b>s
+    <ol>
+      <li>Close (0)</li>
+      <li>Fully/Wide open (1)</li>
+      <li>Shrunk (2)</li>
+      <li>Wink (3)</li>
+    </ol>
+  </li>
+  <li><b>M</b>outh
+    <ol>
+      <li>Close (0)</li>
+      <li>Open (1)</li>
+    </ol>
+  </li>
+  <li><b>B</b>iting lips
+    <ol>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ol>
+  </li>
 </ol>
 
 # Extraction of features 
