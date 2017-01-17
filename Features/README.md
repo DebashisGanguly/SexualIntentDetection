@@ -25,125 +25,125 @@
     </ul>
   </li>
   <li type = "1"> Scene Context
-    <ol>
+    <ul>
       <li>Outdoor scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
       <li>Outdoor event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
       <li>Indoor scene with props (chairs, couches, curtains, toys etc.) (3)</li>
       <li>Indoor scene without props (Flat background) (4)</li>
-    </ol>
+    </ul>
   </li>
   
   <li>Body <b>P</b>osture
-    <ol>
+    <ul>
       <li>Straight/Firm (1)</li>
       <li>Body arch (2)</li>
       <li>Crawling (doggy) (3)</li>
       <li>Sitting with folded knees (either stretched or closed)/Frog tie (4)</li>
-    </ol>
+    </ul>
   </li>
   <li>Body <b>M</b>ovement
-    <ol>
+    <ul>
       <li>Standing (1)</li>
       <li>Sitting (2)</li>
       <li>Lying (3)</li>
       <li>Walking/Running (4)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>B</b>ody Facing Camera
-    <ol>
+    <ul>
       <li>Away (0)</li>
       <li>Towards (1)</li>
-    </ol>
+    </ul>
   </li>
   <li><b>F</b>ace Facing Camera
-    <ol>
+    <ul>
       <li>Away (0)</li>
       <li>Towards (1)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>H</b>ead Position
-    <ol>
+    <ul>
       <li>Straight (0)</li>
       <li>Tilted Up (1)</li>
       <li>Tilted down (2)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>S</b>pread Eagles
-    <ol>
+    <ul>
       <li>Not Applicable (0)</li>
       <li>Hands (1)</li>
       <li>Legs (2)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>E</b>lbow Pointing
-    <ol>
+    <ul>
       <li>Not applicable (0)</li>
       <li>Up (1)</li>
       <li>Down (2)</li>
-    </ol>
+    </ul>
   </li>
   
   <li>Position of <b>W</b>rist
-    <ol>
+    <ul>
       <li>Straight or Not applicable (0)</li>
       <li>Bent and covering private upper/lower body part (groping/lowering undergarments) (1)</li>
       <li>Hands crossed fully (e.g. covering chest, wrists under armpit) (2)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>G</b>esture with Fingers
-    <ol>
+    <ul>
       <li>No (0)</li>
       <li>Yes (1)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>L</b>ooking
-    <ol>
+    <ul>
       <li>Away (0)</li>
       <li>Straight (1)</li>
       <li>Up (2)</li>
       <li>Down (3)</li>
-    </ol>
+    </ul>
   </li>
   
   <li><b>E</b>yebrow
-      <ol>
+      <ul>
       <li>Straight/Normal (1)</li>
       <li>Frowning (2)</li>
       <li>Raised Up(3)</li>
-    </ol>
+    </ul>
   </li>
   <li><b>S</b>mile
-    <ol>
+    <ul>
       <li>Not smiling (0)</li>
       <li>Duchenne (1)</li>
       <li>Non-Duchenne (2)</li>
-    </ol>
+    </ul>
   </li>
   <li>Eyeli<b>d</b>s
-    <ol>
+    <ul>
       <li>Close (0)</li>
       <li>Fully/Wide open (1)</li>
       <li>Shrunk (2)</li>
       <li>Wink (3)</li>
-    </ol>
+    </ul>
   </li>
   <li><b>M</b>outh
-    <ol>
+    <ul>
       <li>Close (0)</li>
       <li>Open (1)</li>
-    </ol>
+    </ul>
   </li>
   <li><b>B</b>iting lips
-    <ol>
+    <ul>
       <li>No (0)</li>
       <li>Yes (1)</li>
-    </ol>
+    </ul>
   </li>
 </ol>
 
