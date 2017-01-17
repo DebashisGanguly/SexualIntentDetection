@@ -17,17 +17,21 @@
 
 # Attributes.csv (17 dimensions: Columns B - R)
 <ol>
-  <ol type = "1">Skin Exposure
-    <li>Fully Clothed (1)
-    <li>Bare bodied (bikini shots or topless) (2)
-    <li>Private body parts exposed (3)
-  </ol>
-  <ol type = "1">Scene Context
-    <li>Outdoor Scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
-    <li>Outdoor Event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
-    <li>Indoor Scene with Props (chairs, couches, curtains, toys etc.) (3)</li>
-    <li>Indoor Scene without Props (Flat background) (4)</li>
-  </ol>
+  <li type = "1"> Skin Exposure
+    <ol>
+      <li>Fully Clothed (1)
+      <li>Bare bodied (bikini shots or topless) (2)
+      <li>Private body parts exposed (3)
+    </ol>
+  </li>
+  <li type = "1"> Scene Context
+    <ol>
+      <li>Outdoor Scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
+      <li>Outdoor Event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
+      <li>Indoor Scene with Props (chairs, couches, curtains, toys etc.) (3)</li>
+      <li>Indoor Scene without Props (Flat background) (4)</li>
+    </ol>
+  </li>
   
   <li>Body <b>P</b>osture</li>
   <li>Body <b>M</b>ovement</li>
