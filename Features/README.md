@@ -19,35 +19,82 @@
 <ol>
   <li type = "1"> Skin Exposure
     <ol>
-      <li>Fully Clothed (1)
-      <li>Bare bodied (bikini shots or topless) (2)
-      <li>Private body parts exposed (3)
+      <li>Fully clothed (1) </li>
+      <li>Bare bodied (bikini shots or topless) (2)</li>
+      <li>Private body parts exposed (3)</li>
     </ol>
   </li>
   <li type = "1"> Scene Context
     <ol>
-      <li>Outdoor Scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
-      <li>Outdoor Event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
-      <li>Indoor Scene with Props (chairs, couches, curtains, toys etc.) (3)</li>
-      <li>Indoor Scene without Props (Flat background) (4)</li>
+      <li>Outdoor scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
+      <li>Outdoor event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
+      <li>Indoor scene with props (chairs, couches, curtains, toys etc.) (3)</li>
+      <li>Indoor scene without props (Flat background) (4)</li>
     </ol>
   </li>
   
   <li>Body <b>P</b>osture
     <ol>
       <li>Straight/Firm (1)</li>
-      <li>Body arch (2) </li>
-      <li>Crawling (doggy) (3) </li>
-      <li>Sitting with folded knees (either stretched or closed)/Frog tie (4) </li>
+      <li>Body arch (2)</li>
+      <li>Crawling (doggy) (3)</li>
+      <li>Sitting with folded knees (either stretched or closed)/Frog tie (4)</li>
     </ol>
   </li>
-  <li>Body <b>M</b>ovement</li>
-  <li><b>B</b>ody Facing Camera</li>
-  <li><b>F</b>ace Facing Camera </li>
-  <li><b>H</b>ead Position</li>
-  <li><b>S</b>pread Eagles</li>
-  <li><b>E</b>lbow Pointing</li>
-  <li>Position of <b>W</b>rist</li>
+  <li>Body <b>M</b>ovement
+    <ol>
+      <li>Standing (1)</li>
+      <li>Sitting (2)</li>
+      <li>Lying (3)<li>
+      <li>Walking/Running (4)</li>
+    </ol>
+  </li>
+  
+  <li><b>B</b>ody Facing Camera
+    <ol>
+      <li>Away (0)</li>
+      <li>Towards (1)</li>
+    </ol>
+  </li>
+  <li><b>F</b>ace Facing Camera
+    <ol>
+      <li>Away (0)</li>
+      <li>Towards (1)</li>
+    </ol>
+  </li>
+  
+  <li><b>H</b>ead Position
+    <ol>
+      <li>Straight (0)</li>
+      <li>Tilted Up (1)</li>
+      <li>Tilted down (2)</li>
+    </ol>
+  </li>
+  
+  <li><b>S</b>pread Eagles
+    <ol>
+      <li>Not Applicable (0)</li>
+      <li>Hands (1)</li>
+      <li>Legs (2)</li>
+    </ol>
+  </li>
+  
+  <li><b>E</b>lbow Pointing
+    <ol>
+      <li>Not applicable (0)</li>
+      <li>Up (1)</li>
+      <li>Down (2)</li>
+    </ol>
+  </li>
+  
+  <li>Position of <b>W</b>rist
+    <ol>
+      <li>Straight or Not applicable (0)</li>
+      <li>Bent and covering private upper/lower body part (groping/lowering undergarments) (1)</li>
+      <li>Hands crossed fully (e.g. covering chest, wrists under armpit) (2)</li>
+    </ol>
+  </li>
+  
   <li><b>G</b>esture with Fingers</li>
   <li><b>L</b>ooking</li>
   <li><b>E</b>yebrow</li>
