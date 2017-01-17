@@ -33,7 +33,14 @@
     </ol>
   </li>
   
-  <li>Body <b>P</b>osture</li>
+  <li>Body <b>P</b>osture
+    <ol>
+      <li>Straight/Firm (1)</li>
+      <li>Body arch (2) </li>
+      <li>Crawling (doggy) (3) </li>
+      <li>Sitting with folded knees (either stretched or closed)/Frog tie (4) </li>
+    </ol>
+  </li>
   <li>Body <b>M</b>ovement</li>
   <li><b>B</b>ody Facing Camera</li>
   <li><b>F</b>ace Facing Camera </li>
