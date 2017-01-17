@@ -18,11 +18,11 @@
 # Attributes.csv (17 dimensions: Columns B - R)
 <ol>
   <li type = "1"> Skin Exposure
-    <ol>
+    <ul>
       <li>Fully clothed (1) </li>
       <li>Bare bodied (bikini shots or topless) (2)</li>
       <li>Private body parts exposed (3)</li>
-    </ol>
+    </ul>
   </li>
   <li type = "1"> Scene Context
     <ol>
