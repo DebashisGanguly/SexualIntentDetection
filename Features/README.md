@@ -18,12 +18,12 @@
 # Attributes.csv (17 dimensions: Columns B - R)
 <ol>
   <li>Skin Exposure</li>
-  <ol>
-    <li>Outdoor Scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
-    <li>Outdoor Event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
-    <li>Indoor Scene with Props (chairs, couches, curtains, toys etc.) (3)</li>
-    <li>Indoor Scene without Props (Flat background) (4)</li>
-  <ol>
+    <ol>
+      <li>Outdoor Scene (natural backdrop of mountain, forest, sea beach, or any place of seclusion) (1)</li>
+      <li>Outdoor Event (public places like gym, playground, red carpet, swimming pool etc.) (2)</li>
+      <li>Indoor Scene with Props (chairs, couches, curtains, toys etc.) (3)</li>
+      <li>Indoor Scene without Props (Flat background) (4)</li>
+    </ol>
   <li>Scene Context</li>
   <li>Body <b>P</b>osture</li>
   <li>Body <b>M</b>ovement</li>
