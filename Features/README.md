@@ -8,11 +8,36 @@
 
 # Moods_Emotions.csv (5 dimensions: Columns B - F)
 <ol>
-  <li><b>D</b>efensive or protective or shy</li>
-  <li><b>S</b>uggestive or sly (pretension to be shy)</li>
-  <li><b>P</b>layful or naughty or teasing</li>
-  <li><b>R</b>elaxed or happy</li>
-  <li><b>U</b>pset or annoyed or angry or disgusted</li>
+  <li><b>D</b>efensive or protective or shy
+    <ul>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ul>
+  </li>
+  <li><b>S</b>uggestive or sly (pretension to be shy)
+    <ul>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ul>
+  </li>
+  <li><b>P</b>layful or naughty or teasing
+    <ul>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ul>
+  </li>
+  <li><b>R</b>elaxed or happy  
+    <ul>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ul>
+  </li>
+  <li><b>U</b>pset or annoyed or angry or disgusted
+    <ul>
+      <li>No (0)</li>
+      <li>Yes (1)</li>
+    </ul>
+  </li>
 </ol>
 
 # Attributes.csv (17 dimensions: Columns B - R)
