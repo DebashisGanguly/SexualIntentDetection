@@ -1,6 +1,6 @@
 # Sexual Intent Detection
 Machine Learning Tool to Identify Sexual Innuendos behind Images.
-Detecting Sexually Provocative Images. Debashis Ganguly, Mohammad H. Mofrad and Adriana Kovashka. In Proceedings of IEEE <a href="http://pamitc.org/wacv2017/"  target="_blank">Winter Conference on Applications of Computer Vision (WACV)</a>, March 2017.
+<p>Detecting Sexually Provocative Images. Debashis Ganguly, Mohammad H. Mofrad and Adriana Kovashka. In Proceedings of IEEE <a href="http://pamitc.org/wacv2017/"  target="_blank">Winter Conference on Applications of Computer Vision (WACV)</a>, March 2017.</p>
 
 
 ## Images directory
