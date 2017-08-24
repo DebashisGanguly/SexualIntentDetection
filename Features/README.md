@@ -1,9 +1,9 @@
 
 # SexualIntent.csv (1 dimension: Column B)
 <ol>
-  <li><b>Y</b>es, definitely sexually provocative (-1)</li>
+  <li><b>Y</b>es, definitely sexually provocative (1)</li>
   <li><b>M</b>aybe, implicit or hidden sexual intentions (0)</li>
-  <li><b>N</b>o, casual without any explicit sexual intentions (1)</li>
+  <li><b>N</b>o, casual without any explicit sexual intentions (-1)</li>
 </ol>
 
 # Moods_Emotions.csv (5 dimensions: Columns B - F)
